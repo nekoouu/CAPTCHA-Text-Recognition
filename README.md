@@ -1,1 +1,1 @@
-# Handwritten digits recognition
+# CAPTCHA Text Recognition
